@@ -26,7 +26,7 @@
     # When "D" is selected ( Enable administrator to delete players records including 6 winning entries by entering
     # Player ID.
 
-# 4. The core part of the Game will then be displayed by:
+# 4. The core part of the Game will then be display through:
     # When "W" is selected the system will display the following
     #Player Name: Chester Bautista, Player Lotto Numbers: 56,44,61,32,4,12
     #lotto nos: [27, 32, 12, 3, 11, 1]
