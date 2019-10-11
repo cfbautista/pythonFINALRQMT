@@ -1,0 +1,40 @@
+#The Game was derived from 6/42 lotto
+# FINAL LECTURE REQUIREMENTS
+
+#Concept:
+
+# 1. Display a Menu to the administrator of the Game
+#
+#     [A]Add Player Records
+#     [B]Edit Player Records
+#     [C]View Player Records
+#     [D]Delete Player Records
+#     [W]GAME ROLL
+
+
+# 2.  The Game administrator will then capture the following
+    # When "A" is selected ( Administrator inputs the following: PlayerID, FirstName, Lastname)
+    # Then the administrator asked for the 6 lucky numbers selected by the Player
+
+    # The administrator will then wait if there are still other players who will play the game (DISPLAY MENU)
+    # If no more players found then administrator type "END" and return to MENU.
+
+
+ # 3. The Game administrator can view the following records
+    # When "C" is selected ( Display in a column and row format (table) the records of the PLAYERS ENTRIES)
+    # When "B" is selected ( Enable administrator to change or update players info except the 6 winning numbers
+    # When "D" is selected ( Enable administrator to delete players records including 6 winning entries by entering
+    # Player ID.
+
+# 4. The core part of the Game will then be displayed by:
+    # When "W" is selected the system will display the following
+    #Player Name: Chester Bautista, Player Lotto Numbers: 56,44,61,32,4,12
+    #lotto nos: [27, 32, 12, 3, 11, 1]
+    #total number that matches the winning number = 1
+
+    #OR
+
+    #Player Name: Chester Bautista, Player Lotto Numbers: 27, 32, 12, 3, 11, 1
+    #lotto nos: [27, 32, 12, 3, 11, 1]
+    #total number that matches the winning number = 6
+    # YOU WIN !!!!
